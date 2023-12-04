@@ -1,7 +1,7 @@
 def declaration():
     # Объяви переменную x, равную 10
     #!v
-
+    x = 10
     #!^
     return x
 
